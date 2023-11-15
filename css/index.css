@@ -1,0 +1,106 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+html, body {
+    font-family :Roboto, sans-serif, arial;
+    font-size: 14px;
+    color: #242424;
+}
+.container {
+    width: 1200px;
+    margin:0px auto;
+}
+.main-section {
+    width: 100%;
+    float: left;
+    padding:50px 0px 40px 0px;
+}
+.heading {
+    font-size: 22px;
+    font-weight: 500;
+    border-bottom: 1px solid #ff5722;
+    margin-bottom:25px;
+    color:blue;
+}
+.logo {
+    width:5%;
+}
+ nav {
+    width: 100%;
+    float: left;
+    background: rgb(132, 132, 149);
+    padding:15px 0px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    border-right: 1px solid #ffc3c3;
+    padding:2px 20px;
+}
+.slider img {
+    width:100%;
+}
+
+.course {
+    border-radius: 0.5px;
+    width: 31%;
+    margin-right: 1%;
+    float: left;
+}
+.course div {
+    border-radius: 20px;
+    padding:10px;
+    background-color: #d68cca;
+}
+.course ul li {
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.placement img {
+    border:5px solid #dfdfdf;
+}
+.footer {
+    background-color:#1f2836;
+    padding:70px 0px;
+    width:100%;
+    float:left;
+}
+.footer-sect {
+    width:30%;
+    float:left;
+}
+.footer-sect h2 {
+    color:#fff;
+    margin-bottom: 20px;
+}
+.footer-sect p {
+    color: #fff;
+    line-height: 22px;
+    padding:0px 30px 20px 0px;
+}
+.footer-menu li {
+    width: 30%;
+    float: left;
+    margin-bottom: 10px;
+}
+.footer-menu li a {
+    color:#fff;
+    text-decoration: none;
+}
+.footer-contact li {
+    margin-bottom:15px;
+    list-style: none;
+    color: #fff;
+}
+.footer img {
+    width: 14%;
+}
+
+
+
+
